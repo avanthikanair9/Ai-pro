@@ -1,0 +1,44 @@
+body{
+    background-image: url('https://previews.123rf.com/images/flas100/flas1001604/flas100160400040/55046120-light-abstract-colorful-painted-watercolor-splashes-background-.jpg');
+    background-size: cover;
+    background-position: center;  
+}
+
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.note{
+    font-size: 15px; 
+    font-weight: bold;
+    color: black;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: rgb(0, 0, 0);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(255, 190, 233);
+    line-height: 3;
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+
+}
+
+.btn_btn-info_heding{
+    font-size: 100px; 
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
